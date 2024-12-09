@@ -27,6 +27,7 @@ Understand the core responsibilities and skills of a Sales Engineer.
 - **Books**
     - *Mastering Technical Sales* by John Care
     - *The PreSales Handbook* by Dr. Johannes Hangl
+    - *The Trusted Advisor Sales Engineer* by John Care
 - **Podcasts**
     - [Two PreSales in a Pod](https://open.spotify.com/show/31UVkaLbpzi5f7XEvDLkdE?si=fe1533a6e78f4e91)
     - [The PreSales Podcast](https://www.presalescollective.com/podcast)
