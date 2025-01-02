@@ -38,13 +38,17 @@ Understand the core responsibilities and skills of a Sales Engineer.
 
 Explore popular sales methodologies and strategies to improve your sales process.
 
-- MEDDIC
-    - [MEDDIC Sales Methodology](https://meddicc.com/meddic-sales-qualification-and-frameworks)
 - BANT
     - [BANT Sales Methodology](https://www.saleshacker.com/bant-sales-qualification/)
     - [BANT vs. MEDDIC](https://www.salesforce.com/blog/bant-vs-meddic/)
+- MEDDIC
+    - [MEDDIC Sales Methodology](https://meddicc.com/meddic-sales-qualification-and-frameworks)
+    - [An Essential Guide to Using the MEDDIC](https://www.salesforce.com/blog/meddic-sales/)
+- NEAT
+    - [All about the N.E.A.T. Selling™ methodology](https://www.lucidchart.com/blog/neat-selling-explained)
 - SPIN Selling
     - [SPIN Selling Overview](https://blog.hubspot.com/sales/spin-selling-the-ultimate-guide)
+    - [What Is SPIN Selling?](https://www.salesforce.com/blog/spin-selling/)
 
 ---
 
