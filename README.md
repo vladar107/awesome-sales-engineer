@@ -1,7 +1,6 @@
 # Awesome Sales Engineering
 
-A curated collection of resources organized by topics relevant to Sales Engineers, including
-discovery, demos, objection handling, and more.
+Sales engineers bridge the gap between technical teams and clients, providing tailored solutions, delivering product demonstrations, and supporting the sales process by showcasing how a product or service solves specific business challenges. They play a critical role in pre-sales activities, building trust and confidence in the proposed solutions.
 
 ---
 
@@ -71,7 +70,7 @@ Master the art of delivering engaging and impactful demos.
 
 - **Books**
     - *Great Demo!* by Peter E. Cohan
-    - - *Mastering Technical Sales* by John Care (Chapters on Demos and Whiteboarding)
+    - *Mastering Technical Sales* by John Care (Chapters on Demos and Whiteboarding)
 - **Courses**
     - [Great Demo! Workshop](https://greatdemo.com/workshop/)
     - [The Pre-Sales Engineer's Guide to Whiteboarding](https://www.linkedin.com/learning/the-pre-sales-engineer-s-guide-to-whiteboarding-engaging-executives-to-close-deals/beyond-presentations-the-power-of-whiteboarding-in-sales)
