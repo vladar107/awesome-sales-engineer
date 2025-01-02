@@ -4,7 +4,7 @@ Sales engineers bridge the gap between technical teams and clients, providing ta
 
 ---
 
-## Table of Contents
+## Contents
 
 1. [Sales Engineering Basics](#sales-engineering-basics)
 2. [Sales Methodologies and Strategies](#sales-methodologies-and-strategies)
