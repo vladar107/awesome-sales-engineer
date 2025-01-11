@@ -1,5 +1,8 @@
 # Awesome Sales Engineering
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![GitHub](https://img.shields.io/github/license/vladar107/awesome-sales-engineer)
+
 Sales engineers bridge the gap between technical teams and clients, providing tailored solutions, delivering product demonstrations, and supporting the sales process by showcasing how a product or service solves specific business challenges. They play a critical role in pre-sales activities, building trust and confidence in the proposed solutions.
 
 ---
