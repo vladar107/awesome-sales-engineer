@@ -146,4 +146,4 @@ Connect with fellow Sales Engineers and share knowledge.
 
 ## Contributing
 
-Found a great resource? Submit a pull request or open an issue to help expand this list.
+Found a great resource? Please check our [contribution guidelines](CONTRIBUTING.md) and submit a pull request or open an issue to help expand this list.
