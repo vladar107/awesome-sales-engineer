@@ -36,6 +36,7 @@ Understand the core responsibilities and skills of a Sales Engineer.
     - [The PreSales Podcast](https://www.presalescollective.com/podcast)
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform that helps with lead capture, segmentation, campaigns, and customer journeys.
 
 ## Sales Methodologies And Strategies
 
