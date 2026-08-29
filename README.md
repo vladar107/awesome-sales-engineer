@@ -122,6 +122,8 @@ Explore essential tools and platforms for Sales Engineers.
 - **Diagram Tools**
     - [Miro](https://miro.com/)
     - [Lucidchart](https://www.lucidchart.com/)
+- **Prospecting & Lead Intelligence**
+    - [Funding Signals](https://fundingsignals.net?utm_source=github&utm_medium=awesome-list) - scores companies that just raised capital as sales leads, sourced from public SEC Form D filings, with on-demand contact/domain enrichment
 
 ---
 
