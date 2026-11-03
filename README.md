@@ -131,6 +131,8 @@ Advance your career as a Sales Engineer.
 
 - **Books**
     - *So Good They Can’t Ignore You* by Cal Newport
+- **Job Market Data**
+    - [SE Job Ad Index: what sales engineer job ads mention and the pay they post](https://topmoller.com/experiments/sales-engineer-job-ads/)
 
 ---
 
