@@ -122,6 +122,8 @@ Explore essential tools and platforms for Sales Engineers.
 - **Diagram Tools**
     - [Miro](https://miro.com/)
     - [Lucidchart](https://www.lucidchart.com/)
+- **AI Agent Skills**
+    - [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills)
 
 ---
 
