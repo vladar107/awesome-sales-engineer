@@ -124,6 +124,8 @@ Explore essential tools and platforms for Sales Engineers.
     - [Lucidchart](https://www.lucidchart.com/)
 - **AI Agent Skills**
     - [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills)
+- **Competitive Intelligence**
+    - [looot-battlecards](https://github.com/loootai/looot-battlecards)
 
 ---
 
